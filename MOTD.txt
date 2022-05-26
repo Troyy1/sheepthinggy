@@ -1,7 +1,8 @@
-Hi welcome to speeding Sheeps new game with a fun locomotion!
+Welcome to speeding sheeps!
 
-
-NOTICE
--------------------------------
-BUYING COSMETICS WILL NOT NOT SAVE AT THE MOMENT!
--------------------------------
+New updates!
+-We are now on applab!
+-New water textures!
+-fixed summer map!
+-added a new zero gravity in water effect!
+and devs have custom cosmetics
