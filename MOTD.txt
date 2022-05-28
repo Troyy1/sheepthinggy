@@ -7,4 +7,5 @@ New updates!
 -new social board
 -new map!
 -disable and mic enable testing
--private codes soon!
+thank god i fixed that socar field
+
