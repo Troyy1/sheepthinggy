@@ -1,9 +1,10 @@
 Welcome to speeding sheeps!
 
 New updates!
--We are now on applab!
--New water textures!
--fixed summer map!
--added a new zero gravity in water effect!
-DISCORD IS PUBLIC!!
-https://discord.gg/V6cqyYVzUB
+-fixed all the bugs
+-no more sandtraps lol
+-cosmetic map having lag was fixed!
+-new social board
+-new map!
+-disable and mic enable testing
+-private codes soon!
