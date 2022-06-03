@@ -1,8 +1,6 @@
 News!
--backrooms.
--KITTYS HOUSE!!
--BACKROOMS ENITY JUMPSCARE IS VERY SCARY NOW!
-- also you wont auto join now you have to join by the buttons.
--fixed some glitches.
--rig shows offline too.
--Time is now showen to everyone at the same time.
+-Fixed banning.
+-Fixed banning time and reason.
+-If your name is Troyy or Troy your name gets set
+as Sheep Only the real troyy is allowed the name 
+(Troyy_)
