@@ -1,0 +1,4 @@
+1 - day
+2 - sunset
+3 - night 
+4 - sunrise
