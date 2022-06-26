@@ -1,6 +1,5 @@
 News!
--uh oh its raining... again...
--On the bright side BIGGEST UPDATE!!
--you can now buy COSMETICS!!!
--update in beach map
--new backrooms!
+-Fixed lag inot backrooms!
+-buying cosmetics removed for a bit plan to be re added.
+-Reporting in game!
+-leaderBoard!
