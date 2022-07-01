@@ -1,5 +1,6 @@
-News!
--Fixed lag inot backrooms!
--buying cosmetics removed for a bit plan to be re added.
--Reporting in game!
--leaderBoard!
+BIGGEST UPDATE YET!
+-no longer need to re equip cosmetics for new players
+-cosmetics now save!
+-Flood has gone down
+-setting your name to offence things auto ban you now
+-colors save too!
