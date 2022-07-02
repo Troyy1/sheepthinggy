@@ -1,6 +1,6 @@
 BIGGEST UPDATE YET!
--no longer need to re equip cosmetics for new players
--cosmetics now save!
--Flood has gone down
--setting your name to offence things auto ban you now
--colors save too!
+-ALL COSMETICS NOW BUYABLE
+-Colors now save again!
+-fixed lag
+-flood gone down a lot!
+and no longer raining!
